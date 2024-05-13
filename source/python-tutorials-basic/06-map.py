@@ -5,4 +5,5 @@ def cube(n):
 
 numbers = (1, 2, 3, 4)
 result = map(cube, numbers)
+print(result) # iterator
 print(list(result))

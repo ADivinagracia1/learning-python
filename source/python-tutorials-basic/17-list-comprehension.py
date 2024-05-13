@@ -8,5 +8,5 @@ print(my_list)
 
 
 # List comprehension equivalent of (1)
-my_list = [n for n in nums]
+my_list = [n*2 for n in nums]
 print(my_list)
